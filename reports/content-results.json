@@ -1,0 +1,22 @@
+[
+  {
+    "name": "80 words,24 grammar,12 texts,40 card questions",
+    "passed": true
+  },
+  {
+    "name": "Unique stable IDs",
+    "passed": true
+  },
+  {
+    "name": "All fields, choices, evidence and exact coverage quotations",
+    "passed": true
+  },
+  {
+    "name": "All17 pairs unique and refer to existing cards",
+    "passed": true
+  },
+  {
+    "name": "Standalone HTML, no external script or stylesheet",
+    "passed": true
+  }
+]

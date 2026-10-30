@@ -1,0 +1,125 @@
+{
+  "browser": "143.0.7499.0",
+  "results": [
+    {
+      "name": "Offline: all assets local, no request needed",
+      "passed": true
+    },
+    {
+      "name": "N5 and N4 catalog filters, optional lower-level review",
+      "passed": true
+    },
+    {
+      "name": "All104 cards, Ukrainian examples, no undefined output",
+      "passed": true
+    },
+    {
+      "name": "Search Japanese, kana and Ukrainian",
+      "passed": true
+    },
+    {
+      "name": "Furigana hides on cards and never leaks reading answer",
+      "passed": true
+    },
+    {
+      "name": "All40 card questions: real choice clicks reveal correct answers",
+      "passed": true
+    },
+    {
+      "name": "Unfinished session survives actual reload with same order and answer",
+      "passed": true
+    },
+    {
+      "name": "Wrong click increments once and highlights correct option",
+      "passed": true
+    },
+    {
+      "name": "r001: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r002: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r003: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r004: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r005: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r006: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r007: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r008: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r009: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r010: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r011: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "r012: reading, exact evidence, two answers and completion",
+      "passed": true
+    },
+    {
+      "name": "Comparison2/3/5, reciprocal recommendation and antonyms separated",
+      "passed": true
+    },
+    {
+      "name": "All17 pair explanations and reverse recommendations render",
+      "passed": true
+    },
+    {
+      "name": "Comparison30 limit and duplicate import normalization",
+      "passed": true
+    },
+    {
+      "name": "Self-rating persists and N1 storage is untouched",
+      "passed": true
+    },
+    {
+      "name": "Export/import through real buttons restores unknown future IDs and progress",
+      "passed": true
+    },
+    {
+      "name": "Reject N1 or malformed backups without mutating state",
+      "passed": true
+    },
+    {
+      "name": "Layout at 360px: all tabs and reading",
+      "passed": true
+    },
+    {
+      "name": "Layout at 412px: all tabs and reading",
+      "passed": true
+    },
+    {
+      "name": "Layout at 1280px: all tabs and reading",
+      "passed": true
+    },
+    {
+      "name": "No runtime JavaScript errors",
+      "passed": true
+    }
+  ]
+}
